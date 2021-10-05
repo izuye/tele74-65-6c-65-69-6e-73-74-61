@@ -15,19 +15,19 @@ You can Download almost anything From your Instagram Account.
 
 <b>What Can Be Downloaded?:</b>
 
-1. All posts of any Profile. (Both Public and Private,for private profiles you need to be a follower.)
-2. All Posts from your feed.
-3. Stories of any profile (Both Public and Private,for private profiles you need to be a follower.)
-4. DP of any profile (No need to follow)
-5. Followers and Followees List of any Profile.
-6. List of followees who follows back the given username.
-7. List of followees who are not following back the given username.
-8. Stories of your Followees.
-9. Tagged posts of any profile.
-10. Your saved Posts.
-11. IGTV videos.
-12. Highlights from any profiles.
-13. Any Public Post from Link(Post/Reels/IGTV)
+1. Semua posting dari Profil apa pun. (Baik Publik dan Pribadi, untuk profil pribadi Anda harus menjadi pengikut.)
+2. Semua Postingan dari feed Anda.
+3. Cerita dari profil apa pun (Baik Publik maupun Pribadi, untuk profil pribadi Anda harus menjadi pengikut.)
+4. DP profil apa saja (Tidak perlu difollow)
+5. Daftar Pengikut dan Pengikut dari Profil apa pun.
+6. Daftar pengikut yang mengikuti kembali nama pengguna yang diberikan.
+7. Daftar pengikut yang tidak mengikuti kembali nama pengguna yang diberikan.
+8. Kisah Pengikut Anda.
+9. Tagged posting dari profil apapun.
+10. Postingan Anda yang disimpan.
+11. video IGTV.
+12. Sorotan dari profil apa pun.
+13. Setiap Postingan Publik dari Tautan (Post/Reels/IGTV)
 
 
 <b>How to Download:</b>
